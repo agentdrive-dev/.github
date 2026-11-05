@@ -12,7 +12,7 @@ AgentDrive lets an AI assistant check on and control your own Tesla through the 
 
 **Links**
 - Repository: https://github.com/agentdrive-dev/agentdrive
-- Website: https://agentdrive-dev.github.io/agentdrive/
+- Website: https://agentdrive-dev.github.io/agentdrive/ (full installation guide)
 - Issues: https://github.com/agentdrive-dev/agentdrive/issues
 - Contact: agentdrivedev@gmail.com
 
