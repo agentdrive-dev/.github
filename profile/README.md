@@ -6,9 +6,18 @@ AgentDrive lets an AI assistant check on and control your own Tesla through the 
 
 - 🔋 Vehicle status: battery, charging, locks, doors, tyre pressures, climate
 - 🔑 Signed vehicle commands via Tesla virtual keys (flash lights, honk, lock/unlock, and more)
-- 🩺 Health checks (`agentdrive check`) and token refresh
-- 🔄 Self-updating from the public repo (`agentdrive update`); your private config stays in `~/.agentdrive`
-- 🌍 Global (non-China) Fleet API regions; English-only docs
+- 🩺 Health checks and token refresh
+- 🔄 Self-updating from the public repo; your private config stays in `~/.agentdrive`
+- 🌍 Works with Tesla Fleet API in North America, Europe and Asia-Pacific (China not supported)
+
+### Everyday commands
+
+Ask your agent to run these, or run them yourself:
+
+```bash
+agentdrive check    # Read-only status check (never wakes the car)
+agentdrive update   # Update to the latest version, keeps your private config
+```
 
 **Links**
 - Repository: https://github.com/agentdrive-dev/agentdrive
