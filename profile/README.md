@@ -16,4 +16,6 @@ AgentDrive lets an AI assistant check on and control your own Tesla through the 
 - Issues: https://github.com/agentdrive-dev/agentdrive/issues
 - Contact: agentdrivedev@gmail.com
 
+🙏 Thanks to [MuseDrive](https://github.com/ukhhh/musedrive) for the original idea.
+
 > AgentDrive is an independent community project and is not affiliated with or endorsed by Tesla, Inc. Use at your own risk.
